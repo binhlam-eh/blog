@@ -1,9 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository aims to work on a practical rails web application which
+mimics a blog where user can perform CRUD on articles and comments with
+a simple authentication provided.
 
-Things you may want to cover:
+Knowledge covered:
 
 * Ruby version
 
@@ -13,12 +14,8 @@ Things you may want to cover:
 
 * Database creation
 
-* Database initialization
+* Database migration
 
-* How to run the test suite
+* Request routing
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Alt text](image.png)
